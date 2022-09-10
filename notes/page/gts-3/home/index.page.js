@@ -1,4 +1,4 @@
-import {TITLE_TEXT_STYLE, TIPS_TEXT_STYLE, SCROLL_LIST, ADD_BUTTON} from './index.style'
+import {ADD_BUTTON, SCROLL_LIST, TIPS_TEXT_STYLE} from './index.style'
 import {readFileSync, writeFileSync} from './../../../utils/fs'
 import {getScrollListDataConfig} from './../../../utils/index'
 

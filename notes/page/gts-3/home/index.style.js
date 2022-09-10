@@ -1,6 +1,6 @@
 import {gettext} from 'i18n'
 
-export const {width: DEVICE_WIDTH, height: DEVICE_HEIGHT} = hmSetting.getDeviceInfo()
+export const {width: DEVICE_WIDTH, height: DEVICE_HEIGHT} = hmSetting.getDeviceInfo() // height: 450, width: 390
 
 const STATUS_BAR_HEIGHT = 65;
 const ADD_BUTTON_SIDE_SIZE = 70
