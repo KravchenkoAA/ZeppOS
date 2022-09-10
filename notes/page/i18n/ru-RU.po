@@ -1,0 +1,14 @@
+msgid "no_notes_message"
+msgstr "Заметок еще нет"
+
+msgid "back_button"
+msgstr "Назад"
+
+msgid "save_button"
+msgstr "Сохранить"
+
+msgid "success_message"
+msgstr "Успешно сохранено"
+
+msgid "error_message"
+msgstr "Что-то пошло не так"

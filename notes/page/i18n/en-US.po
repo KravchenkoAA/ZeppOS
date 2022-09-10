@@ -1,0 +1,14 @@
+msgid "no_notes_message"
+msgstr "No notes yet"
+
+msgid "back_button"
+msgstr "Back"
+
+msgid "save_button"
+msgstr "Save"
+
+msgid "success_message"
+msgstr "Successfully saved"
+
+msgid "error_message"
+msgstr "Something went wrong"
